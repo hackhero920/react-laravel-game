@@ -1,0 +1,27 @@
+.lobby-container {
+  width: 100vw;
+  background-color: red;
+  height: 100vh !important;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row-width {
+  width: 100%;
+}
+
+.left-container {
+  max-width: 300px;
+  margin-inline: auto;
+}
+
+.right-container {
+  max-width: 300px;
+}
+
+.list-item {
+  background-color: white !important;
+  border: 1px solid black !important;
+}
